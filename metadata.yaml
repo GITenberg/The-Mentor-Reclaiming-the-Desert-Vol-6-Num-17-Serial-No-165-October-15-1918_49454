@@ -1,10 +1,16 @@
 _repo: The-Mentor-Reclaiming-the-Desert-Vol-6-Num-17-Serial-No-165-October-15-1918_49454
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49454-h/images/cover.jpg
 creator:
   author:
     agent_name: Blanchard, C. J.
     gutenberg_agent_id: '45348'
     url: http://www.gutenberg.org/2009/agents/45348
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49454#The-Mentor-Reclaiming-the-Desert-Vol-6-Num-17-Serial-No-165-October-15-1918
 gutenberg_issued: '2015-07-16'
 gutenberg_type: Text
 identifiers:
